@@ -13,6 +13,7 @@
     <section>
       <h2>About</h2>
       <p>I am PhD student in Economics at IMT School for Advanced Studies Lucca, Italy. I am working on industrial policy and international trade. </p>
+      <p><a href="cv.pdf">CV</a></p>
     </section>
 
     <section>
@@ -32,10 +33,10 @@
       <p>TA / Instructor roles.</p>
     </section> -->
 
-    <section>
+    <!-- <section>
       <h2>Curriculum Vitae</h2>
       <p><a href="cv.pdf">CV</a></p>
-    </section>
+    </section> -->
 
     <section>
       <h2>Contact</h2>
