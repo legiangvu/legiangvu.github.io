@@ -34,7 +34,7 @@
 
     <section>
       <h2>Curriculum Vitae</h2>
-      <p><a href="cv.pdf">Download CV (PDF)</a></p>
+      <p><a href="cv.pdf">CV</a></p>
     </section>
 
     <section>
