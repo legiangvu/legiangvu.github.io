@@ -33,6 +33,11 @@
     </section> -->
 
     <section>
+      <h2>Curriculum Vitae</h2>
+      <p><a href="cv.pdf">Download CV (PDF)</a></p>
+    </section>
+
+    <section>
       <h2>Contact</h2>
       <p>Email: giangvu.le@imtlucca.it</p>
       <p><a href="https://github.com/legiangvu">GitHub</a></p>
