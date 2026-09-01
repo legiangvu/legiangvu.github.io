@@ -12,7 +12,7 @@
 
     <section>
       <h2>About</h2>
-      <p>I am PhD student in Economics at IMT School for Advanced Studies Lucca, Italy. I am working in industrial policy and international trade. </p>
+      <p>I am PhD student in Economics at IMT School for Advanced Studies Lucca, Italy. I am working on industrial policy and international trade. </p>
     </section>
 
     <section>
